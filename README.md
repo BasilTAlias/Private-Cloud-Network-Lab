@@ -1,4 +1,4 @@
-🔹 Private Cloud Network Lab
+# Private Cloud Network Lab
 
 This project demonstrates hands-on experience configuring networking in a **vSphere-based private cloud** environment. It covers setting up **Production, Isolated, and High Availability networks** for ESXi hosts, emphasizing effective VM communication, security, redundancy, and performance.
 
@@ -33,7 +33,7 @@ This project demonstrates hands-on experience configuring networking in a **vSph
 **Network Label:** `8881995-Production`  
 **MTU:** 1500 bytes  
 
-**Important Screenshots to Add:**
+**Screenshots:**
 
 - Details of vSwitch1 on both hosts
 - 
@@ -58,7 +58,8 @@ This project demonstrates hands-on experience configuring networking in a **vSph
 
 **Network Label:** `8881995-Test`  
 
-**Important Screenshots to Add:**
+**Screenshots:**
+
 - Adding isolated network on ESXi Host 1
 
   ![Images](Screenshots/3.png)
@@ -87,7 +88,7 @@ This project demonstrates hands-on experience configuring networking in a **vSph
 
 **Network Label:** `8881995-Demo`  
 
-**Important Screenshots to Add:**
+**Screenshots:**
 
 - Adding HA network on ESXi Host 1
 
